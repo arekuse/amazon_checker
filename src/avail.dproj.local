@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.931,=C:\Users\Alexei\Documents\RAD Studio\Projekte\ratra\GroupedItems1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.629,C:\Users\Alexei\Documents\RAD Studio\Projekte\WikiDic\wikidic_src.dfm=C:\Users\Alexei\Documents\RAD Studio\Projekte\Availability\avail_src.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,C:\Users\Alexei\Documents\RAD Studio\Projekte\WikiDic\wikidic_src.dfm=C:\Users\Alexei\Documents\RAD Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.664,=C:\Users\Alexei\Documents\RAD Studio\Projekte\SplitItemDetail1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.813,C:\Users\Alexei\Documents\RAD Studio\Projekte\WikiDic\wikidic.dproj=C:\Users\Alexei\Documents\RAD Studio\Projekte\Availability\avail.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.818,C:\Users\Alexei\Documents\RAD Studio\Projekte\WikiDic\wikidic.dproj=C:\Users\Alexei\Documents\RAD Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.587,=C:\Users\Alexei\Documents\RAD Studio\Projekte\GroupedItems2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.007,=C:\Users\Alexei\Documents\RAD Studio\Projekte\ratra\ItemDetail1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.629,C:\Users\Alexei\Documents\RAD Studio\Projekte\WikiDic\wikidic_src.pas=C:\Users\Alexei\Documents\RAD Studio\Projekte\Availability\avail_src.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,C:\Users\Alexei\Documents\RAD Studio\Projekte\WikiDic\wikidic_src.pas=C:\Users\Alexei\Documents\RAD Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.219,=C:\Users\Alexei\Documents\RAD Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.438,=C:\Users\Alexei\Documents\RAD Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.486,=C:\Users\Alexei\Documents\RAD Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,=C:\Users\Alexei\Documents\RAD Studio\Projekte\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
